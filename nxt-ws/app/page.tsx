@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div>
       <main>
-        <h1 className="text-2xl">Carpinteria</h1>
+        <h1 className="text-2xl bg-brown-600">Carpinteria</h1>
       </main>
       <div>
         <ul className="flex">
